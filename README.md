@@ -152,6 +152,4 @@ kind create cluster --name my-learning-cluster --config kind-config.yaml
 
 ---
 
-**Author:** Prathap Dasari  
-**Location:** Oslo, Norway  
-**Company:** CEGAL AS
+**Author:** Prathap Dasari
